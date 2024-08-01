@@ -42,10 +42,11 @@ To run this project locally, follow these steps:
 
 ## Project Structure
 
-- `css/styles.css`: Contains all the CSS styles for the website.
+- `css`: Contains all the CSS styles for the website.
 - `images/`: Contains all the photo files.
-- `js/script.js`: Contains the JavaScript code for interactivity.
+- `icons/`: Contains all icons that used in this project.
 - `index.html`: The main HTML file for the website.
+- `form.html`: contact form.
 - `README.md`: This file.
 
 ## Contributing
